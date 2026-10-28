@@ -30,6 +30,8 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+// This is a test line - ignore for doc
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
